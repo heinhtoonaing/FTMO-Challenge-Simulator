@@ -1,5 +1,7 @@
 # FTMO Challenge Simulator
 
+
+
 💼 **FTMO Challenge Simulator** is an interactive Streamlit web app designed to simulate the popular FTMO trading challenge.  
 It allows traders to test their strategy against customizable parameters such as account size, profit target, max daily loss, and trading days, providing a realistic equity curve and trade log.
 
@@ -35,5 +37,7 @@ It allows traders to test their strategy against customizable parameters such as
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/yourusername/ftmo-challenge-simulator.git
+   git clone https://github.com/heinhtoonaing/ftmo-challenge-simulator.git
    cd ftmo-challenge-simulator
+
+Try with this link: https://ftmo-challenge-simulator.streamlit.app/
